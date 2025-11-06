@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">🖤 Hola, soy <strong>Carolina Alvarado</strong> </h1>
 
-<!--
-**carolaljime21/carolaljime21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desarrolladora Frontend · Diseñadora UX/UI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦋 Sobre mí
+Soy una desarrolladora apasionada por crear **experiencias digitales** que mezclan tecnología, arte y narrativa.  
+Trabajo con **tecnologías web y móviles** (Angular, React, Firebase, Next.js, Expo).
+
+💡 Mis intereses van desde el diseño UX/UI hasta la inteligencia artificial y la creación de mundos interactivos.
+
+---
+
+### ⚙️ Stack actual
+```bash
+💻 Frontend: React · Next.js · Angular · TailwindCSS
+⚙️ Backend: Node.js · Firebase · Supabase · Express
+📱 Móvil: Expo · React Native
+🧠 Otros: Python · Ontologías OWL · Blender · Unreal Engine
